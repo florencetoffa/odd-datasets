@@ -1,0 +1,17 @@
+[
+{"Training": "Trained", "Gender": "Male", "Region": "Greater Accra", "Number": "219 ", "Year": "2012-2013", "Institution": "Public"}
+,
+{"Training": "Trained", "Gender": "Female", "Region": "Greater Accra", "Number": "105 ", "Year": "2012-2014", "Institution": "Public"}
+,
+{"Training": "Untrained", "Gender": "Male", "Region": "Greater Accra", "Number": "51 ", "Year": "2012-2015", "Institution": "Public"}
+,
+{"Training": "Untrained", "Gender": "Female", "Region": "Greater Accra", "Number": "8 ", "Year": "2012-2016", "Institution": "Public"}
+,
+{"Training": "Trained", "Gender": "Male", "Region": "Greater Accra", "Number": "5 ", "Year": "2012-2017", "Institution": "Private"}
+,
+{"Training": "Trained", "Gender": "Female", "Region": "Greater Accra", "Number": "12 ", "Year": "2012-2018", "Institution": "Private"}
+,
+{"Training": "Untrained", "Gender": "Male", "Region": "Greater Accra", "Number": "31 ", "Year": "2012-2019", "Institution": "Private"}
+,
+{"Training": "Untrained", "Gender": "Female", "Region": "Greater Accra", "Number": "7 ", "Year": "2012-2020", "Institution": "Private"}
+]

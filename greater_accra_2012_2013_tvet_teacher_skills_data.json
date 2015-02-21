@@ -1,0 +1,17 @@
+[
+  {"Gender": "Male", "Region": "Greater Accra", "Number": "244 ", "Year": "2012-2013", "Skill": "Technical", "Institution": "Public"}
+,
+{"Gender": "Female", "Region": "Greater Accra", "Number": "102 ", "Year": "2012-2013", "Skill": "Technical", "Institution": "Public"}
+,
+{"Gender": "Male ", "Region": "Greater Accra", "Number": "26 ", "Year": "2012-2013", "Skill": "Non-technical", "Institution": "Public"}
+,
+{"Gender": "Female", "Region": "Greater Accra", "Number": "11 ", "Year": "2012-2013", "Skill": "Non-technical", "Institution": "Public"}
+,
+{"Gender": "Male", "Region": "Greater Accra", "Number": "36 ", "Year": "2012-2013", "Skill": "Technical", "Institution": "Private"}
+,
+{"Gender": "Female", "Region": "Greater Accra", "Number": "13 ", "Year": "2012-2013", "Skill": "Technical", "Institution": "Private"}
+,
+{"Gender": "Male ", "Region": "Greater Accra", "Number": "0 ", "Year": "2012-2013", "Skill": "Non-technical", "Institution": "Private"}
+,
+{"Gender": "Female", "Region": "Greater Accra", "Number": "6 ", "Year": "2012-2013", "Skill": "Non-technical", "Institution": "Private"}
+]
