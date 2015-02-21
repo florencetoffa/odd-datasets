@@ -1,0 +1,9 @@
+Institution,Gender,Skill,Number,Region,Year
+Public,Male,Technical,244 ,Greater Accra,2012-2013
+Public,Female,Technical,102 ,Greater Accra,2012-2013
+Public,Male ,Non-technical,26 ,Greater Accra,2012-2013
+Public,Female,Non-technical,11 ,Greater Accra,2012-2013
+Private,Male,Technical,36 ,Greater Accra,2012-2013
+Private,Female,Technical,13 ,Greater Accra,2012-2013
+Private,Male ,Non-technical,0 ,Greater Accra,2012-2013
+Private,Female,Non-technical,6 ,Greater Accra,2012-2013

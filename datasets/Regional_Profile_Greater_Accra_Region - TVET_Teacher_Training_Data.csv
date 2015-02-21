@@ -1,0 +1,9 @@
+Institution,Gender,Training,Number,Region,Year
+Public,Male,Trained,219 ,Greater Accra,2012-2013
+Public,Female,Trained,105 ,Greater Accra,2012-2014
+Public,Male,Untrained,51 ,Greater Accra,2012-2015
+Public,Female,Untrained,8 ,Greater Accra,2012-2016
+Private,Male,Trained,5 ,Greater Accra,2012-2017
+Private,Female,Trained,12 ,Greater Accra,2012-2018
+Private,Male,Untrained,31 ,Greater Accra,2012-2019
+Private,Female,Untrained,7 ,Greater Accra,2012-2020
