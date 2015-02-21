@@ -1,2 +1,2 @@
 # odd-datasets
-Data sets for the open data sets for the Open Data Day Event (Feb 21, 2015)
+Data sets for the Open Data Day -Hackathon Event (Feb 21, 2015)
